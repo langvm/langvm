@@ -1,0 +1,2 @@
+
+#![alloc(nonstandard_style)]
